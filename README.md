@@ -1,1 +1,5 @@
 # Tableau_citibike
+
+This document will serve as my analysis. For this project, I reviewed CitiBike data from February 2018. Unfortunately, my machine didn't like the large datasets, so I was constrained by performance and had to choose only a single, smaller (though still quite large) data set from the available data. The two areas I investigated were trends by generation and gender. Within the various generations, I found that the largest consumers of CitiBike are Millenials and Generation X. Though not suprising, this likely represents that the program is being used largely by commuters within the city for 'last mile' type of traffic. Baby boomers tended to have the longest duration of rides, which is also unsurprising, likely because they are using the program for leisure. 
+
+Gender had a very distinct trend with men being a much larger consumer population than women. One trend I found in the data set that I could not understand is that women tend to take a longer ride on Tuesday and men on Thursday. It would be interesting to analyze the potential reasons behind this, be it marketing or event driven. 
